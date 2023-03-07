@@ -1,5 +1,5 @@
-We are building a website that allows users to search for movies and view details about them. Admin can do the same + add movies and delete them. 
-GET /movies?title=: returns a list of movies that match the title
+**We are building a website that allows users to search for movies and view details about them. Admin can do the same + add movies and delete them. 
+GET /movies?title=: returns a list of movies that match the title.**
  
 {
   "id": 1,
