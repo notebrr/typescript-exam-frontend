@@ -9,7 +9,7 @@ GET /movies?title=: returns a list of movies that match the title.**
   "description": "Movie description",
   "director": "Director name",
   "posterUrl": "https://example.com/poster.jpg"
-}```
+}
 
 
 GET /movies?id=: returns the details of a single movie identified by its ID
