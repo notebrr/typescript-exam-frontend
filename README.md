@@ -1,6 +1,6 @@
 **We are building a website that allows users to search for movies and view details about them. Admin can do the same + add movies and delete them. 
 GET /movies?title=: returns a list of movies that match the title.**
- 
+ ```
 {
   "id": 1,
   "title": "Movie Title",
@@ -9,7 +9,7 @@ GET /movies?title=: returns a list of movies that match the title.**
   "description": "Movie description",
   "director": "Director name",
   "posterUrl": "https://example.com/poster.jpg"
-}
+}```
 
 
 GET /movies?id=: returns the details of a single movie identified by its ID
